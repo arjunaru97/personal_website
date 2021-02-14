@@ -1,7 +1,7 @@
 ---
 title: Arjun Arunasalam
 role: Computer Science P.h.D Student at Purdue University
-avatar_filename: headshot.jpg
+avatar_filename: content/authors/admin/headshot.jpg
 bio: "My research interests lie broadly in security. "
 interests: []
 social:
