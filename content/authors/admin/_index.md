@@ -1,7 +1,7 @@
 ---
 title: Arjun Arunasalam
 role: Computer Science P.h.D Student at Purdue University
-avatar_filename: content/authors/admin/graduation.JPG
+avatar_filename: content/authors/admin/avatar.jpg
 bio: "My research interests lie broadly in security. "
 interests: []
 social:
@@ -16,7 +16,7 @@ organizations:
     url: ""
 education:
   courses:
-    - course: BSE Computer Engineering
+    - course: BSE,Computer Engineering
       institution: University of Michigan, Ann Arbor
       year: 2020
 email: ""
