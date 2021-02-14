@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: 'Yorktown Heights,NY'
     date_start: '2019-05-01'
-    date_end: '2020-05-01''
+    date_end: '2020-05-01'
     description: 'Conducted research on security analytics for microservice applications in cloud services specifically container based applications, resulting in successful vulnerability scanning of applications'
    
         
