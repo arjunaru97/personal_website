@@ -23,13 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 - title: Security Research Intern
-    company: GenCoin
+    company: 'IBM'
     company_url: ''
-    location: California
+    location: 'Yorktown Heights,NY'
     date_start: '2019-05-01'
     date_end: '2020-05-01''
-    description: |2-
-        * Conducted research on security analytics for microservice applications in cloud services specifically container based applications, resulting in successful vulnerability scanning of applications
+    description: 'Conducted research on security analytics for microservice applications in cloud services specifically container based applications, resulting in successful vulnerability scanning of applications'
    
         
   
