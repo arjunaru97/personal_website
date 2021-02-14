@@ -25,7 +25,7 @@ experience:
   - title: 'Security Research Intern'
     company: 'IBM'
     company_url: ''
-    location: 'California'
+    location: 'NY'
     date_start: '2019-05-01'
     date_end: '2020-05-01'
     description: >-
